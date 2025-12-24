@@ -13,10 +13,12 @@ More improvements will be added gradually.
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -25,5 +27,14 @@ More improvements will be added gradually.
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

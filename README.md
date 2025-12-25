@@ -15,6 +15,7 @@ More improvements will be added gradually.
 | ------- |
 | [0015-3sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
@@ -22,6 +23,7 @@ More improvements will be added gradually.
 | ------- |
 | [0015-3sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
 ## Greedy
@@ -33,6 +35,7 @@ More improvements will be added gradually.
 | ------- |
 | [0015-3sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
 ## Hash Table

@@ -13,6 +13,7 @@ More improvements will be added gradually.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0018-4sum) |
@@ -21,6 +22,7 @@ More improvements will be added gradually.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0018-4sum) |
@@ -29,6 +31,7 @@ More improvements will be added gradually.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |

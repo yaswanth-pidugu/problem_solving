@@ -21,6 +21,7 @@ More improvements will be added gradually.
 | [0283-move-zeroes](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ More improvements will be added gradually.
 | [0283-move-zeroes](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -45,6 +47,7 @@ More improvements will be added gradually.
 | [0018-4sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |

@@ -33,6 +33,7 @@ More improvements will be added gradually.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0977-squares-of-a-sorted-array) |
@@ -59,4 +60,8 @@ More improvements will be added gradually.
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->

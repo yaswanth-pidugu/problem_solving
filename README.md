@@ -22,6 +22,7 @@ More improvements will be added gradually.
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0905-sort-array-by-parity) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ More improvements will be added gradually.
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Binary Search
 |  |
 | ------- |

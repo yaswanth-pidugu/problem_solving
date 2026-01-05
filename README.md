@@ -40,11 +40,13 @@ More improvements will be added gradually.
 | [0905-sort-array-by-parity](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0977-squares-of-a-sorted-array) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2938-separate-black-and-white-balls](https://github.com/yaswanth-pidugu/problem_solving/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
+| [2938-separate-black-and-white-balls](https://github.com/yaswanth-pidugu/problem_solving/tree/master/2938-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -70,4 +72,5 @@ More improvements will be added gradually.
 | [0443-string-compression](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0443-string-compression) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0777-swap-adjacent-in-lr-string) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2938-separate-black-and-white-balls](https://github.com/yaswanth-pidugu/problem_solving/tree/master/2938-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->

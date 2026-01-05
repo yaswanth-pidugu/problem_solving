@@ -38,6 +38,7 @@ More improvements will be added gradually.
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0977-squares-of-a-sorted-array) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/2337-move-pieces-to-obtain-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -66,4 +67,5 @@ More improvements will be added gradually.
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0443-string-compression) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/2337-move-pieces-to-obtain-a-string) |
 <!---LeetCode Topics End-->

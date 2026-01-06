@@ -18,6 +18,7 @@ More improvements will be added gradually.
 | [0016-3sum-closest](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
@@ -32,6 +33,7 @@ More improvements will be added gradually.
 | [0016-3sum-closest](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0443-string-compression) |
@@ -53,6 +55,7 @@ More improvements will be added gradually.
 | [0015-3sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0905-sort-array-by-parity) |

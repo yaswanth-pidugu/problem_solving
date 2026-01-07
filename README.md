@@ -19,6 +19,7 @@ More improvements will be added gradually.
 | [0018-4sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
@@ -76,4 +77,8 @@ More improvements will be added gradually.
 | [0777-swap-adjacent-in-lr-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0777-swap-adjacent-in-lr-string) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/yaswanth-pidugu/problem_solving/tree/master/2938-separate-black-and-white-balls) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

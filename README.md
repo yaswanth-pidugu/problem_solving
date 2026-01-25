@@ -83,4 +83,8 @@ More improvements will be added gradually.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->

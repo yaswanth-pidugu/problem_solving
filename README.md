@@ -27,6 +27,7 @@ More improvements will be added gradually.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/yaswanth-pidugu/problem_solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yaswanth-pidugu/problem_solving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ More improvements will be added gradually.
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yaswanth-pidugu/problem_solving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,4 +95,12 @@ More improvements will be added gradually.
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/yaswanth-pidugu/problem_solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yaswanth-pidugu/problem_solving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yaswanth-pidugu/problem_solving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->

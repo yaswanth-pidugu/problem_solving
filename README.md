@@ -13,6 +13,7 @@ More improvements will be added gradually.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0016-3sum-closest) |
@@ -68,6 +69,7 @@ More improvements will be added gradually.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yaswanth-pidugu/problem_solving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |

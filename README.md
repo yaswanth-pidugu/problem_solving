@@ -27,6 +27,7 @@ More improvements will be added gradually.
 | [0905-sort-array-by-parity](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0977-squares-of-a-sorted-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yaswanth-pidugu/problem_solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/yaswanth-pidugu/problem_solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yaswanth-pidugu/problem_solving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Two Pointers
@@ -53,6 +54,7 @@ More improvements will be added gradually.
 | ------- |
 | [0011-container-with-most-water](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0881-boats-to-save-people) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yaswanth-pidugu/problem_solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2938-separate-black-and-white-balls](https://github.com/yaswanth-pidugu/problem_solving/tree/master/2938-separate-black-and-white-balls) |
 ## Sorting
 |  |
@@ -105,4 +107,8 @@ More improvements will be added gradually.
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yaswanth-pidugu/problem_solving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yaswanth-pidugu/problem_solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->

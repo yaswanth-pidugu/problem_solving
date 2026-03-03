@@ -85,6 +85,7 @@ More improvements will be added gradually.
 | [0344-reverse-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0443-string-compression) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0777-swap-adjacent-in-lr-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/yaswanth-pidugu/problem_solving/tree/master/2938-separate-black-and-white-balls) |
 ## Bit Manipulation
@@ -111,4 +112,12 @@ More improvements will be added gradually.
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yaswanth-pidugu/problem_solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->

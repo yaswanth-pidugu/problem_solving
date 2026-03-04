@@ -28,6 +28,7 @@ More improvements will be added gradually.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yaswanth-pidugu/problem_solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/yaswanth-pidugu/problem_solving/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/yaswanth-pidugu/problem_solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/yaswanth-pidugu/problem_solving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Two Pointers
@@ -112,6 +113,7 @@ More improvements will be added gradually.
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yaswanth-pidugu/problem_solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/yaswanth-pidugu/problem_solving/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Recursion
 |  |
 | ------- |

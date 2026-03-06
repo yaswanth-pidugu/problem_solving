@@ -87,6 +87,7 @@ More improvements will be added gradually.
 | [0443-string-compression](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0443-string-compression) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/yaswanth-pidugu/problem_solving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/yaswanth-pidugu/problem_solving/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/yaswanth-pidugu/problem_solving/tree/master/2938-separate-black-and-white-balls) |
